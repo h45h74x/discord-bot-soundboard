@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot-soundboard",
+  "version": "1.0.0",
+  "description": "Extendable soundboard bot for Discord",
+  "main": "index.js",
+  "repository": "https://github.com/h45h74x/discord-bot-soundboard",
+  "author": "h45h74x",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
